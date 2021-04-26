@@ -1,2 +1,2 @@
-# mykitty
+# mykittycrypto
 Mykitty crypto website
