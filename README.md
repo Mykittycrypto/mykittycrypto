@@ -1,2 +1,2 @@
-# mykittycrypto
+# mykittycrypto.github.io
 Mykitty crypto website
